@@ -1,0 +1,2 @@
+# featherChat
+simple websockets chatroom
